@@ -6,32 +6,14 @@ Who needs a real bouquet when you can grow a garden in your browser? Welcome to 
 
 Are you tired of spending a fortune on flowers that wither away in a week? Look no further! You can cultivate an everlasting digital oasis of blossoms with just a sprinkle of HTML and a dash of CSS. No green thumb is required! 🌸🪴
 
-## ✨ New Interactive Features
+## 📱 Live Demo
 
-Now you can **personalize your digital bouquet** with custom messages and names using URL parameters:
+To view the live version of **Sorry-I-Can-t-Afford-Flowers**, visit: [just you and mee!](https://justyouandmee.netlify.app/)
 
-### 🎯 URL Parameters
-
-#### **Custom Messages** (`?message=`)
-Add a beautiful message that appears at the top of your flower garden:
-```
-https://justyouandme.netlify.app/?message=Happy Birthday
-https://justyouandme.netlify.app/?message=I Love You
-```
-
-#### **Custom Names** (`?name=`)
-Display a name on the glowing flower lights for a magical effect:
-```
-https://justyouandme.netlify.app/?name=Sarah
-https://justyouandme.netlify.app/?name=Emma
-```
-
-#### **Combined Magic** 
-Use both parameters together for the ultimate personalized experience:
-```
-https://justyouandme.netlify.app/?message=Happy Anniversary&name=John
-https://justyouandme.netlify.app/?message=Will You Marry Me&name=Alex
-```
+Try it with parameters:
+- [With Message](https://justyouandmee.netlify.app/?message=Hello%20Beautiful)
+- [With Name](https://justyouandmee.netlify.app/?name=Love)
+- [With Both](https://justyouandmee.netlify.app/?message=You%20Are%20Amazing&name=Darling)
 
 ### 🌟 Features
 
@@ -64,18 +46,13 @@ Remember, when words fail, code prevails. Share your digital posies and let love
 
 **Warning:** May cause excessive smiles and CSS-induced allergies. 🤣
 
-## 📱 Live Demo
-
-
-To view the live version of **Sorry-I-Can-t-Afford-Flowers**, visit: [https://justyouandme.netlify.app/](https://justyouandme.netlify.app/)
-
-Try it with parameters:
-- [With Message](https://justyouandme.netlify.app/?message=Hello%20Beautiful)
-- [With Name](https://justyouandme.netlify.app/?name=Love)
-- [With Both](https://justyouandme.netlify.app/?message=You%20Are%20Amazing&name=Darling)
-
 ## 📄 License
 
 MIT (Make it Terrific) - Feel free to plant and clone to your heart's content! 🌼🌼
 
 Happy coding and blooming! 🌻🌻
+
+## 🔐 Just You and Mee
+![find you!](./screenshots/flower.png)
+
+
