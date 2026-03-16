@@ -8,7 +8,7 @@ Are you tired of spending a fortune on flowers that wither away in a week? Look 
 
 ## 📱 Live Demo
 
-To view the live version of **Sorry-I-Can-t-Afford-Flowers**, visit: [just you and mee!](https://justyouandmee.netlify.app/)
+To view the live version of **Sorry-I-Can-t-Afford-Flowers**, visit: [Just You And Mee!](https://justyouandmee.netlify.app/)
 
 Try it with parameters:
 - [With Message](https://justyouandmee.netlify.app/?message=Hello%20Beautiful)
